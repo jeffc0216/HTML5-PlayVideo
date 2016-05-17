@@ -1,0 +1,85 @@
+#skin{
+	border: 3px dashed steelblue;
+	border-radius: 10px;
+	width: 700px;
+	margin: 50px auto;
+	padding: 10px;
+	text-align: center;
+}
+
+nav{
+	margin: 10px;
+}
+
+#buttons{
+	margin: 10px;
+}
+
+#playButton{
+	width: 100px;
+	height: 30px;
+	background: #eee;
+	font: bold 16px Comic Sans MS;
+	border: 1px solid #ccc;
+	border-radius: 15px;
+	box-shadow: rgb(128,128,180) 5px 5px 8px;
+}
+
+#stopButton{
+	width: 100px;
+	height: 30px;
+	background: #eee;
+	font: bold 16px Comic Sans MS;
+	border: 1px solid #ccc;
+	border-radius: 15px;
+	box-shadow: rgb(128,128,180) 5px 5px 8px;
+}
+
+#upButton{
+	width: 100px;
+	height: 30px;	
+	background: #eee;
+	font: bold 16px Comic Sans MS;
+	border: 1px solid #ccc;
+	border-radius: 15px;
+	box-shadow: rgb(128,128,180) 5px 5px 8px;
+}
+
+#downButton{
+	width: 100px;
+	height: 30px;	
+	background: #eee;
+	font: bold 16px Comic Sans MS;
+	border: 1px solid #ccc;
+	border-radius: 15px;
+	box-shadow: rgb(128,128,180) 5px 5px 8px;
+}
+
+#mutueButton{
+	width: 100px;
+	height: 30px;	
+	background: #eee;
+	font: bold 16px Comic Sans MS;
+	border: 1px solid #ccc;
+	border-radius: 15px;
+	box-shadow: rgb(128,128,180) 5px 5px 8px;
+}
+
+#defaultBar{
+	margin: 0px auto;
+	border: 1px solid steelblue;
+	width: 584px;
+	height: 14px;
+	/*float: left;*/
+	padding: 2px;
+	border-radius: 15px;
+	box-shadow: rgb(128,128,180) 5px 5px 8px;
+}
+
+#progressBar{
+	width: 0px;
+	height: 14px;
+	background: steelblue;
+	border-radius: 15px;
+	box-shadow: rgb(128,128,180) 5px 5px 8px;
+}
